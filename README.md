@@ -1,6 +1,7 @@
-# vue-composition-api-noteballs
+# vue3-notes-composition-api
 
 This template should help get you started developing with Vue 3 in Vite.
+please visit completed app deployed at firebase https://vue3-note.web.app/
 
 ## Recommended IDE Setup
 
